@@ -56,7 +56,7 @@ header {
    /*background: #13171B;*/
    height: 54px;
    width: 100%;
-   background: #11abb0 none repeat scroll 0% 0%;
+   background: #8F2009 none repeat scroll 0% 0%;
    position: fixed;
    left: 0px;
    top: 0px;
@@ -83,7 +83,7 @@ header .logo a {
 	padding: 0;
 	border: none;
 	outline: none;
-   width: 64px;
+   width: 130px;
    height: 18px;   
 }
 
@@ -148,7 +148,7 @@ ul#nav li a {
    line-height: 38px;
 	text-decoration: none;
    text-align: left;
-   color: #58687A;
+   color: rgb(180, 174, 167);
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -749,7 +749,7 @@ footer .footer-logo a {
    margin-left: 3px;
 }
 footer .footer-logo a img {
-   height: 24px;
+   //height: 24px;
    width: 92px;
 }
 
